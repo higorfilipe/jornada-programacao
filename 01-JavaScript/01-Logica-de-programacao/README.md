@@ -2,7 +2,7 @@
 
 ## O que são Algoritimos?
 
-## DATA
+## 
 ## O que aprendi
 
 - 
