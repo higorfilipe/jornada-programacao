@@ -1,9 +1,8 @@
-# Logica de Programação
+Logica de Programação
 
-## O que são Algoritimos?
+O que são Algoritimos?
 
-## 
-## O que aprendi
+O que aprendi
 
 - 
 - 
@@ -11,4 +10,4 @@
 - 
 - 
 
-## Dificuldades
+Dificuldades
